@@ -1,7 +1,7 @@
 from autodistill.detection import DetectionTargetModel
 import supervision as sv
 
-class YOLOv8(DetectionTargetModel):
+class Model(DetectionTargetModel):
     def __init__(self, model_name):
         # load model
         # if only one variant is available, remove the "model_name" argument
