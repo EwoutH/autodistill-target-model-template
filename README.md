@@ -11,7 +11,7 @@
 
 # Autodistill Target Model Template
 
-**⚠️ Note: Before you start building a Target Model, check out our [Available Models](https://docs.autodistill.com/#available-models) directory to see if a model is already being implemented. If your desired model is being implemented, check the [Autodistill](https://github.com/autodistill/autodistill) GitHub Issues for progress. We encourage you to offer support to models you want to see in Autodistill if work is already being done on them.**
+**⚠️ Note: Before you start building a Target Model, check out our [Supported Models](https://docs.autodistill.com/supported-models/) documentation to see if a model is already being implemented. If your desired model is being implemented, check the [Autodistill](https://github.com/autodistill/autodistill) GitHub Issues for progress. We encourage you to offer support to models you want to see in Autodistill if work is already being done on them.**
 
 This repository contains a template for use in creating a Target Model for [Autodistill](https://github.com/autodistill/autodistill).
 
